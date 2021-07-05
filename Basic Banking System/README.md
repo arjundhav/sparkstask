@@ -12,7 +12,7 @@
 
 <h3>Technologies used:- </h3> 
 <p>
-  Frontend:-HTML,CSS,Bootstrap <br>
+  Frontend:-HTML,CSS,AJAX <br>
   Backend:-PHP <br>
   Database:-MYSQL <br>
 </p>
