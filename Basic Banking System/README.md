@@ -12,7 +12,7 @@
 
 <h3>Technologies used:- </h3> 
 <p>
-  Frontend:-BOOTSTRAP<br>
+  Frontend:-BOOTSTRAP,AJAX<br>
   Backend:-PHP <br>
   Database:-MYSQL <br>
 </p>
