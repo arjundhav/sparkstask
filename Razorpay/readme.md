@@ -7,4 +7,4 @@
 ◇ On any page / email, only basic information is needed.<br>
 ◇ Create your own temporary / sandbox / testing accounts with 3rd party for integrations.<br>
 
-<h2>Technologies Used</h2>: <br> <b>HTML</b> , <b>CSS</b> , <b>JAVASCRIPT</b> ,<b> AJAX </b>
+<h2>Technologies Used:</h2> <br> <b>HTML</b> , <b>CSS</b> , <b>JAVASCRIPT</b> ,<b> AJAX </b>
