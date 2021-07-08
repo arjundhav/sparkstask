@@ -6,4 +6,5 @@
   The invoice will contain the amount.<br>
 ◇ On any page / email, only basic information is needed.<br>
 ◇ Create your own temporary / sandbox / testing accounts with 3rd party for integrations.<br>
-◇ Host the website at 000webhost, github.io, heroku app or any other free hosting provider. Check in code in gitlab.<br>
+
+Technologies Used: <b>HTML</b> , <b>CSS</b> , <b>JAVASCRIPT</b> ,<b> AJAX </b>
